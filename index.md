@@ -2,7 +2,7 @@
 
 ## 文件下载
 
-[.gitignore ](./.gitignore )
+[Git_Setup.zip](./Git_Setup.zip)
 
 [01-Git-2.32.0-64-bit.exe](./01-Git-2.32.0-64-bit.exe) </br>
 [02-TortoiseGit-2.12.0.0-64bit.msi](./02-TortoiseGit-2.12.0.0-64bit.msi)</br>
