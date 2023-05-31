@@ -4,12 +4,6 @@
 
 [Git_Setup.zip](./Git_Setup.zip)
 
-[01-Git-2.32.0-64-bit.exe](./01-Git-2.32.0-64-bit.exe) </br>
-[02-TortoiseGit-2.12.0.0-64bit.msi](./02-TortoiseGit-2.12.0.0-64bit.msi)</br>
-[03-TortoiseGit-LanguagePack-2.12.0.0-64bit-zh_CN.msi](./03-TortoiseGit-LanguagePack-2.12.0.0-64bit-zh_CN.msi) 
-
-
-
 ## 设置邮箱 克隆帐号&密码
 
 ![1619404515937](Image/1619404515937.png)
